@@ -1,6 +1,6 @@
 # Trabajo Final Diplomatura CSC
 
-##Autores: Santiago Barandiarán - Nahuel Ramirez Lorca
+## Autores: Santiago Barandiarán - Nahuel Ramirez Lorca
 
 Se hizo un análisis con datos de proyectos de investigación científica del año 2017, descargados del **Portal de datos abiertos del MINCYT**. 
 En primer término haremos un análisis descriptivo de las variables de interés que contiene el dataset. Luego nos enfocaremos en un modelo explicativo de los montos financiados en los proyectos. 
